@@ -1210,6 +1210,10 @@ PrefabInstance:
       propertyPath: mvsObj.Array.data[1]
       value: 
       objectReference: {fileID: 1651813581}
+    - target: {fileID: 8683795771275410400, guid: 488b925bdfb9a8242a401a10218f9cad, type: 3}
+      propertyPath: m_SortingOrder
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 8683795771275410401, guid: 488b925bdfb9a8242a401a10218f9cad, type: 3}
       propertyPath: m_Name
       value: DoggoOficial
