@@ -3,7 +3,12 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Move
+  - Ground
+  - Box
+  - Dog
+  - Slot
   layers:
   - Default
   - TransparentFX
